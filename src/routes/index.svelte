@@ -6,10 +6,9 @@
 			<li>Laura Laruelle:<br /> 0 €</li>
 			<li>Julie Vanderbyse:<br /> 228,67 €</li>
 			<li>Anthony Englebert:<br /> 0 €</li>
-			<li>David Hainaut:<br /> 38,11 €</li>
-			<li>Jeremy Scala: <br /> 335,23 €</li>
+			<li>David Hainaut:<br /> 500 €</li>
 			<li>Thomas Dussart: <br /> 228,67 €</li>
-			<li>Christophe Renard: <br /> 106,56 €</li>
+			<li>Christophe Renard: <br /> 876,37 €</li>
 		</ul>
 	</section>
 
@@ -18,24 +17,24 @@
 		<ul class="text-lg">
 			<li>Laura Laruelle:<br /> 0 €</li>
 			<li>Julie Vanderbyse:<br /> 883,57 €</li>
-			<li>Anthony Englebert:<br /> 4307 €</li>
-			<li>David Hainaut:<br /> 147,26 €</li>
+			<li>Anthony Englebert:<br /> 3805,25</li>
+			<li>David Hainaut:<br /> 1071,03 €</li>
 			<li>Jeremy Scala: <br /> 883,57</li>
 			<li>Thomas Dussart: <br /> 883,57</li>
-			<li>Christophe Renard: <br /> 0 €</li>
+			<li>Christophe Renard: <br /> 1539,63 €</li>
 		</ul>
 	</section>
 
 	<section class="bg-third text-white h-min p-4 rounded">
 		<h2 class="text-2xl text-center font-black mb-5">Etat du compte Smart</h2>
-		<h3 class="text-2xl text-center font-black mb-10">1.670,14 €</h3>
+		<h3 class="text-2xl text-center font-black mb-10">2864,23  €</h3>
 		<h2 class="text-2xl text-center font-black mb-5">Budget Coop</h2>
-		<h3 class="text-2xl text-center font-black mb-10">150,4 €</h3>
+		<h3 class="text-2xl text-center font-black mb-10">241,68 €</h3>
 	</section>
 
 	<section class="bg-third h-min text-white p-4 rounded">
 		<h2 class="text-2xl text-center font-black mb-5">Chiffre d'affaire 2022</h2>
-		<h3 class="text-2xl text-center font-black mb-5">0 €</h3>
+		<h3 class="text-2xl text-center font-black mb-5">1814 €</h3>
 	</section>
 
 	<section class="bg-primary 0 text-white p-4 col-span-6 rounded">
