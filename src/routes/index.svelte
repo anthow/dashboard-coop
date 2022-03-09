@@ -7,6 +7,7 @@
 			<li>Julie Vanderbyse:<br /> 228,67 €</li>
 			<li>Anthony Englebert:<br /> 0 €</li>
 			<li>David Hainaut:<br /> 500 €</li>
+			<li>Jeremy Scala: <br /> 375,23</li>
 			<li>Thomas Dussart: <br /> 228,67 €</li>
 			<li>Christophe Renard: <br /> 876,37 €</li>
 		</ul>
